@@ -18,6 +18,7 @@
 
 - [ ] 将 shell 脚本转化为 golang，不再依赖 [mega 的 DLUT-EDA-Login 项目](https://github.com/bboymega/dlut-eda-shell-login)
 - [ ] 随机选择账户登陆失败后，继续随机下一个
+- [ ] 打包为 Release 发布，多平台
 
 ## The MIT License
 
