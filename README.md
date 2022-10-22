@@ -14,6 +14,8 @@
 
 我把我的想法💡实在在这里，并使用 [Beego](https://github.com/beego/beego) 搭建了前后端将它实现得尽可能的简单易用，希望路过的你能受到启发
 
+![screenshot](./src/screenshot.png)
+
 ## 为什么仓库 archived 了
 
 不绕圈子，我比较直
